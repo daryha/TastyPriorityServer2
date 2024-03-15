@@ -156,7 +156,7 @@ CSRF_TRUSTED_ORIGINS = ['https://tasty-priority-server-1482c4db125b.herokuapp.co
 
 CORS_ALLOWED_ORIGINS = [
     'http://localhost:3000',
-    'https://tasty-priority-server-1482c4db125b.herokuapp.com'  # React dev server
+    'https://tasty-priority-front-e75d3c0b16f3.herokuapp.com'  # React dev server
 ]
 
 CORS_ALLOW_CREDENTIALS = True
